@@ -1,5 +1,5 @@
 # Wallpaper4k
-List of 4K wallpapers for pc and mobile
+
 
 <button class="tablink" onclick="openPage('News', this, 'green')" id="defaultOpen">News</button>
 <button class="tablink" onclick="openPage('Contact', this, 'blue')">Contact</button>
